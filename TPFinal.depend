@@ -515,3 +515,137 @@
 	"Util.h"
 	<time.h>
 
+1664287325 source:c:\users\user\documents\tp final\tp-final-programacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TdaDomicilio.h"
+	"TdaCuil.h"
+	"TdaEntrega.h"
+	"TdaChofer.h"
+	"Tda Vehiculo.h"
+	"TdaReparto.h"
+	"Tda Fecha.h"
+	"TdaHora.h"
+	"stdbool.h"
+	"Util.h"
+	<time.h>
+
+1664215032 c:\users\user\documents\tp final\tp-final-programacion\tdadomicilio.h
+
+1664236946 c:\users\user\documents\tp final\tp-final-programacion\tdacuil.h
+	<stdbool.h>
+
+1664215445 c:\users\user\documents\tp final\tp-final-programacion\tdaentrega.h
+	<stdbool.h>
+	"TdaPaquete.h"
+	"TdaDomicilio.h"
+
+1664236946 c:\users\user\documents\tp final\tp-final-programacion\tdapaquete.h
+
+1664214787 c:\users\user\documents\tp final\tp-final-programacion\tdachofer.h
+	"TdaCuil.h"
+	"TdaDomicilio.h"
+
+1664161332 c:\users\user\documents\tp final\tp-final-programacion\tda vehiculo.h
+
+1664236946 c:\users\user\documents\tp final\tp-final-programacion\tdareparto.h
+	"TdaChofer.h"
+	"Tda Vehiculo.h"
+	"Tda Fecha.h"
+	"TdaHora.h"
+	"Tda Pila.h"
+
+1662761317 c:\users\user\documents\tp final\tp-final-programacion\tda fecha.h
+
+1664232185 c:\users\user\documents\tp final\tp-final-programacion\tdahora.h
+
+1663096162 c:\users\user\documents\tp final\tp-final-programacion\tda pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1664294215 c:\users\user\documents\tp final\tp-final-programacion\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1663871476 c:\users\user\documents\tp final\tp-final-programacion\util.h
+
+1664216986 source:c:\users\user\documents\tp final\tp-final-programacion\tda fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"TDA Fecha.h"
+
+1664236946 source:c:\users\user\documents\tp final\tp-final-programacion\tdachofer.c
+	<stdio.h>
+	<stdlib.h>
+	"Util.h"
+	"TdaDomicilio.h"
+	"TdaCuil.h"
+	"TdaChofer.h"
+	<string.h>
+
+1664236946 source:c:\users\user\documents\tp final\tp-final-programacion\tdacliente.c
+	<stdio.h>
+	<stdlib.h>
+	"TdaCuil.h"
+	"TdaDomicilio.h"
+	"Util.h"
+	"TdaCliente.h"
+	<string.h>
+
+1664214975 c:\users\user\documents\tp final\tp-final-programacion\tdacliente.h
+	"TdaDomicilio.h"
+	"TdaCuil.h"
+
+1664236946 source:c:\users\user\documents\tp final\tp-final-programacion\tdacuil.c
+	<stdio.h>
+	<stdlib.h>
+	"TdaCuil.h"
+	"Util.h"
+	<stdbool.h>
+	<string.h>
+
+1664236946 source:c:\users\user\documents\tp final\tp-final-programacion\tdadomicilio.c
+	<stdio.h>
+	<stdlib.h>
+	"TdaDomicilio.h"
+	"Util.h"
+	<string.h>
+
+1664215473 source:c:\users\user\documents\tp final\tp-final-programacion\tdaentrega.c
+	<stdio.h>
+	<stdlib.h>
+	"TdaEntrega.h"
+	"Util.h"
+
+1664236946 source:c:\users\user\documents\tp final\tp-final-programacion\tdahora.c
+	<stdio.h>
+	<stdlib.h>
+	"Util.h"
+	"TdaHora.h"
+
+1664236946 source:c:\users\user\documents\tp final\tp-final-programacion\tdareparto.c
+	<stdio.h>
+	<stdlib.h>
+	"TdaReparto.h"
+	"Util.h"
+	"Tda Pila.h"
+	"Nodo.h"
+	"TdaEntrega.h"
+	<string.h>
+
+1664236946 source:c:\users\user\documents\tp final\tp-final-programacion\tdavehiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"Tda Vehiculo.h"
+	"Util.h"
+	<string.h>
+
+1664060066 source:c:\users\user\documents\tp final\tp-final-programacion\util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Util.h"
+

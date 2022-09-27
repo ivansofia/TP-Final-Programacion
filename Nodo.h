@@ -5,6 +5,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+int ivancito=10;
+
 typedef void* PtrDato;
 
 
@@ -68,8 +70,6 @@ void setSiguiente(PtrNodo esteNodo, PtrNodo siguienteNodo);
 //  nodo: puntero al nodo
 // No devuelve valor
 PtrNodo getSiguiente(PtrNodo nodo);
-
-int vitto=1;
 
 
 
