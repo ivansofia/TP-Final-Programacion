@@ -1,0 +1,517 @@
+# depslib dependency file v1.0
+1664161469 source:c:\users\legio\onedrive\desktop\tpfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TdaDomicilio.h"
+	"TdaCuil.h"
+	"TdaEntrega.h"
+	"Util.h"
+	"TdaChofer.h"
+	"Tda Vehiculo.h"
+
+1664157249 source:c:\users\legio\onedrive\desktop\tpfinal\tdadomicilio.c
+	<stdio.h>
+	<stdlib.h>
+	"TdaDomicilio.h"
+	"Util.h"
+	<string.h>
+
+1664157249 c:\users\legio\onedrive\desktop\tpfinal\tdadomicilio.h
+
+1663871476 c:\users\legio\onedrive\desktop\tpfinal\util.h
+
+1664060066 source:c:\users\legio\onedrive\desktop\tpfinal\util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Util.h"
+
+1663888346 source:c:\users\legio\onedrive\desktop\tpfinal\tdacuil.c
+	<stdio.h>
+	<stdlib.h>
+	"TdaCuil.h"
+	"Util.h"
+	<string.h>
+
+1663873720 c:\users\legio\onedrive\desktop\tpfinal\tdacuil.h
+
+1664159955 source:c:\users\legio\onedrive\desktop\tpfinal\tdachofer.c
+	<stdio.h>
+	<stdlib.h>
+	"Util.h"
+	"TdaDomicilio.h"
+	"TdaCuil.h"
+	"TdaChofer.h"
+	<string.h>
+
+1663896514 source:c:\users\legio\onedrive\desktop\tpfinal\tdareparto.c
+	<stdio.h>
+	<stdlib.h>
+	"TdaReparto.h"
+	"Util.h"
+	<string.h>
+
+1663896514 c:\users\legio\onedrive\desktop\tpfinal\tdareparto.h
+	"TdaChofer.h"
+	"Tda Vehiculo.h"
+	"Tda Fecha.h"
+	"TdaHora.h"
+	"Tda Pila.h"
+
+1664159686 c:\users\legio\onedrive\desktop\tpfinal\tdachofer.h
+	"TdaCuil.h"
+	"TdaDomicilio.h"
+
+1664161332 c:\users\legio\onedrive\desktop\tpfinal\tda vehiculo.h
+
+1662761317 c:\users\legio\onedrive\desktop\tpfinal\tda fecha.h
+
+1664166425 c:\users\legio\onedrive\desktop\tpfinal\tdahora.h
+
+1663096162 c:\users\legio\onedrive\desktop\tpfinal\tda pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1663094078 c:\users\legio\onedrive\desktop\tpfinal\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1663960540 source:c:\users\legio\onedrive\desktop\tpfinal\tdaentrega.c
+	<stdio.h>
+	<stdlib.h>
+	"TdaEntrega.h"
+	"Util.h"
+
+1663119037 c:\users\legio\onedrive\desktop\tpfinal\tdaentrega.h
+	<stdbool.h>
+	"TdaPaquete.h"
+	"TdaDomicilio.h"
+
+1664160396 c:\users\legio\onedrive\desktop\tpfinal\tdapaquete.h
+
+1664160600 source:c:\users\legio\onedrive\desktop\tpfinal\tdapaquete.c
+	<stdio.h>
+	<stdlib.h>
+	"Util.h"
+	"TdaPaquete.h"
+	<string.h>
+
+1664161332 source:c:\users\legio\onedrive\desktop\tpfinal\tdavehiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"Tda Vehiculo.h"
+	"Util.h"
+	<string.h>
+
+1664166328 source:c:\users\legio\onedrive\desktop\tpfinal\tdahora.c
+	<stdio.h>
+	<stdlib.h>
+	"Util.h"
+	"TdaHora.h"
+
+1664216858 source:c:\users\legio\onedrive\desktop\tpfinal - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TdaDomicilio.h"
+	"TdaCuil.h"
+	"TdaEntrega.h"
+	"TdaChofer.h"
+	"Tda Vehiculo.h"
+	"TdaReparto.h"
+	"Tda Fecha.h"
+	"TdaHora.h"
+	"stdbool.h"
+	"Util.h"
+
+1664215032 c:\users\legio\onedrive\desktop\tpfinal - copia\tdadomicilio.h
+
+1663873720 c:\users\legio\onedrive\desktop\tpfinal - copia\tdacuil.h
+
+1664215445 c:\users\legio\onedrive\desktop\tpfinal - copia\tdaentrega.h
+	<stdbool.h>
+	"TdaPaquete.h"
+	"TdaDomicilio.h"
+
+1664215356 c:\users\legio\onedrive\desktop\tpfinal - copia\tdapaquete.h
+
+1663871476 c:\users\legio\onedrive\desktop\tpfinal - copia\util.h
+
+1664214787 c:\users\legio\onedrive\desktop\tpfinal - copia\tdachofer.h
+	"TdaCuil.h"
+	"TdaDomicilio.h"
+
+1664161332 c:\users\legio\onedrive\desktop\tpfinal - copia\tda vehiculo.h
+
+1664215041 source:c:\users\legio\onedrive\desktop\tpfinal - copia\tdachofer.c
+	<stdio.h>
+	<stdlib.h>
+	"Util.h"
+	"TdaDomicilio.h"
+	"TdaCuil.h"
+	"TdaChofer.h"
+	<string.h>
+
+1664215053 source:c:\users\legio\onedrive\desktop\tpfinal - copia\tdacliente.c
+	<stdio.h>
+	<stdlib.h>
+	"TdaCuil.h"
+	"TdaDomicilio.h"
+	"Util.h"
+	"TdaCliente.h"
+	<string.h>
+
+1664214975 c:\users\legio\onedrive\desktop\tpfinal - copia\tdacliente.h
+	"TdaDomicilio.h"
+	"TdaCuil.h"
+
+1663888346 source:c:\users\legio\onedrive\desktop\tpfinal - copia\tdacuil.c
+	<stdio.h>
+	<stdlib.h>
+	"TdaCuil.h"
+	"Util.h"
+	<string.h>
+
+1664215032 source:c:\users\legio\onedrive\desktop\tpfinal - copia\tdadomicilio.c
+	<stdio.h>
+	<stdlib.h>
+	"TdaDomicilio.h"
+	"Util.h"
+	<string.h>
+
+1664215473 source:c:\users\legio\onedrive\desktop\tpfinal - copia\tdaentrega.c
+	<stdio.h>
+	<stdlib.h>
+	"TdaEntrega.h"
+	"Util.h"
+
+1664166328 source:c:\users\legio\onedrive\desktop\tpfinal - copia\tdahora.c
+	<stdio.h>
+	<stdlib.h>
+	"Util.h"
+	"TdaHora.h"
+
+1664166425 c:\users\legio\onedrive\desktop\tpfinal - copia\tdahora.h
+
+1664215356 source:c:\users\legio\onedrive\desktop\tpfinal - copia\tdapaquete.c
+	<stdio.h>
+	<stdlib.h>
+	"Util.h"
+	"TdaPaquete.h"
+	<string.h>
+
+1664215619 source:c:\users\legio\onedrive\desktop\tpfinal - copia\tdareparto.c
+	<stdio.h>
+	<stdlib.h>
+	"TdaReparto.h"
+	"Util.h"
+	<string.h>
+
+1664215619 c:\users\legio\onedrive\desktop\tpfinal - copia\tdareparto.h
+	"TdaChofer.h"
+	"Tda Vehiculo.h"
+	"Tda Fecha.h"
+	"TdaHora.h"
+	"Tda Pila.h"
+
+1662761317 c:\users\legio\onedrive\desktop\tpfinal - copia\tda fecha.h
+
+1663096162 c:\users\legio\onedrive\desktop\tpfinal - copia\tda pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1663094078 c:\users\legio\onedrive\desktop\tpfinal - copia\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1664215509 source:c:\users\legio\onedrive\desktop\tpfinal - copia\tdavehiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"Tda Vehiculo.h"
+	"Util.h"
+	<string.h>
+
+1664060066 source:c:\users\legio\onedrive\desktop\tpfinal - copia\util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Util.h"
+
+1664216986 source:c:\users\legio\onedrive\desktop\tpfinal - copia\tda fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"TDA Fecha.h"
+
+1664216986 source:c:\users\aula11\desktop\tpfinal - copia\tda fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"TDA Fecha.h"
+
+1663871476 c:\users\aula11\desktop\tpfinal - copia\util.h
+
+1662761317 c:\users\aula11\desktop\tpfinal - copia\tda fecha.h
+
+1664215041 source:c:\users\aula11\desktop\tpfinal - copia\tdachofer.c
+	<stdio.h>
+	<stdlib.h>
+	"Util.h"
+	"TdaDomicilio.h"
+	"TdaCuil.h"
+	"TdaChofer.h"
+	<string.h>
+
+1664215032 c:\users\aula11\desktop\tpfinal - copia\tdadomicilio.h
+
+1663873720 c:\users\aula11\desktop\tpfinal - copia\tdacuil.h
+
+1664214787 c:\users\aula11\desktop\tpfinal - copia\tdachofer.h
+	"TdaCuil.h"
+	"TdaDomicilio.h"
+
+1664215053 source:c:\users\aula11\desktop\tpfinal - copia\tdacliente.c
+	<stdio.h>
+	<stdlib.h>
+	"TdaCuil.h"
+	"TdaDomicilio.h"
+	"Util.h"
+	"TdaCliente.h"
+	<string.h>
+
+1664214975 c:\users\aula11\desktop\tpfinal - copia\tdacliente.h
+	"TdaDomicilio.h"
+	"TdaCuil.h"
+
+1663888346 source:c:\users\aula11\desktop\tpfinal - copia\tdacuil.c
+	<stdio.h>
+	<stdlib.h>
+	"TdaCuil.h"
+	"Util.h"
+	<string.h>
+
+1664215032 source:c:\users\aula11\desktop\tpfinal - copia\tdadomicilio.c
+	<stdio.h>
+	<stdlib.h>
+	"TdaDomicilio.h"
+	"Util.h"
+	<string.h>
+
+1664215473 source:c:\users\aula11\desktop\tpfinal - copia\tdaentrega.c
+	<stdio.h>
+	<stdlib.h>
+	"TdaEntrega.h"
+	"Util.h"
+
+1664215445 c:\users\aula11\desktop\tpfinal - copia\tdaentrega.h
+	<stdbool.h>
+	"TdaPaquete.h"
+	"TdaDomicilio.h"
+
+1664236946 c:\users\aula11\desktop\tpfinal - copia\tdapaquete.h
+
+1664233388 source:c:\users\aula11\desktop\tpfinal - copia\tdahora.c
+	<stdio.h>
+	<stdlib.h>
+	"Util.h"
+	"TdaHora.h"
+
+1664232185 c:\users\aula11\desktop\tpfinal - copia\tdahora.h
+
+1664215356 source:c:\users\aula11\desktop\tpfinal - copia\tdapaquete.c
+	<stdio.h>
+	<stdlib.h>
+	"Util.h"
+	"TdaPaquete.h"
+	<string.h>
+
+1664215619 source:c:\users\aula11\desktop\tpfinal - copia\tdareparto.c
+	<stdio.h>
+	<stdlib.h>
+	"TdaReparto.h"
+	"Util.h"
+	<string.h>
+
+1664215619 c:\users\aula11\desktop\tpfinal - copia\tdareparto.h
+	"TdaChofer.h"
+	"Tda Vehiculo.h"
+	"Tda Fecha.h"
+	"TdaHora.h"
+	"Tda Pila.h"
+
+1664161332 c:\users\aula11\desktop\tpfinal - copia\tda vehiculo.h
+
+1663096162 c:\users\aula11\desktop\tpfinal - copia\tda pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1663094078 c:\users\aula11\desktop\tpfinal - copia\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1664215509 source:c:\users\aula11\desktop\tpfinal - copia\tdavehiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"Tda Vehiculo.h"
+	"Util.h"
+	<string.h>
+
+1664060066 source:c:\users\aula11\desktop\tpfinal - copia\util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Util.h"
+
+1664233213 source:c:\users\aula11\desktop\tpfinal - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TdaDomicilio.h"
+	"TdaCuil.h"
+	"TdaEntrega.h"
+	"TdaChofer.h"
+	"Tda Vehiculo.h"
+	"TdaReparto.h"
+	"Tda Fecha.h"
+	"TdaHora.h"
+	"stdbool.h"
+	"Util.h"
+
+1664216986 source:c:\users\user\desktop\tpfinal - copia\tda fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"TDA Fecha.h"
+
+1663871476 c:\users\user\desktop\tpfinal - copia\util.h
+
+1662761317 c:\users\user\desktop\tpfinal - copia\tda fecha.h
+
+1664236946 source:c:\users\user\desktop\tpfinal - copia\tdachofer.c
+	<stdio.h>
+	<stdlib.h>
+	"Util.h"
+	"TdaDomicilio.h"
+	"TdaCuil.h"
+	"TdaChofer.h"
+	<string.h>
+
+1664215032 c:\users\user\desktop\tpfinal - copia\tdadomicilio.h
+
+1664236946 c:\users\user\desktop\tpfinal - copia\tdacuil.h
+	<stdbool.h>
+
+1664214787 c:\users\user\desktop\tpfinal - copia\tdachofer.h
+	"TdaCuil.h"
+	"TdaDomicilio.h"
+
+1664236946 source:c:\users\user\desktop\tpfinal - copia\tdacliente.c
+	<stdio.h>
+	<stdlib.h>
+	"TdaCuil.h"
+	"TdaDomicilio.h"
+	"Util.h"
+	"TdaCliente.h"
+	<string.h>
+
+1664214975 c:\users\user\desktop\tpfinal - copia\tdacliente.h
+	"TdaDomicilio.h"
+	"TdaCuil.h"
+
+1664236946 source:c:\users\user\desktop\tpfinal - copia\tdacuil.c
+	<stdio.h>
+	<stdlib.h>
+	"TdaCuil.h"
+	"Util.h"
+	<stdbool.h>
+	<string.h>
+
+1664236946 source:c:\users\user\desktop\tpfinal - copia\tdadomicilio.c
+	<stdio.h>
+	<stdlib.h>
+	"TdaDomicilio.h"
+	"Util.h"
+	<string.h>
+
+1664215473 source:c:\users\user\desktop\tpfinal - copia\tdaentrega.c
+	<stdio.h>
+	<stdlib.h>
+	"TdaEntrega.h"
+	"Util.h"
+
+1664215445 c:\users\user\desktop\tpfinal - copia\tdaentrega.h
+	<stdbool.h>
+	"TdaPaquete.h"
+	"TdaDomicilio.h"
+
+1664236946 c:\users\user\desktop\tpfinal - copia\tdapaquete.h
+
+1664236946 source:c:\users\user\desktop\tpfinal - copia\tdahora.c
+	<stdio.h>
+	<stdlib.h>
+	"Util.h"
+	"TdaHora.h"
+
+1664232185 c:\users\user\desktop\tpfinal - copia\tdahora.h
+
+1664060066 source:c:\users\user\desktop\tpfinal - copia\util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Util.h"
+
+1664236946 source:c:\users\user\desktop\tpfinal - copia\tdavehiculo.c
+	<stdio.h>
+	<stdlib.h>
+	"Tda Vehiculo.h"
+	"Util.h"
+	<string.h>
+
+1664161332 c:\users\user\desktop\tpfinal - copia\tda vehiculo.h
+
+1664236946 source:c:\users\user\desktop\tpfinal - copia\tdareparto.c
+	<stdio.h>
+	<stdlib.h>
+	"TdaReparto.h"
+	"Util.h"
+	"Tda Pila.h"
+	"Nodo.h"
+	"TdaEntrega.h"
+	<string.h>
+
+1664236946 c:\users\user\desktop\tpfinal - copia\tdareparto.h
+	"TdaChofer.h"
+	"Tda Vehiculo.h"
+	"Tda Fecha.h"
+	"TdaHora.h"
+	"Tda Pila.h"
+
+1663096162 c:\users\user\desktop\tpfinal - copia\tda pila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Nodo.h"
+
+1664287318 c:\users\user\desktop\tpfinal - copia\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1664287325 source:c:\users\user\desktop\tpfinal - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TdaDomicilio.h"
+	"TdaCuil.h"
+	"TdaEntrega.h"
+	"TdaChofer.h"
+	"Tda Vehiculo.h"
+	"TdaReparto.h"
+	"Tda Fecha.h"
+	"TdaHora.h"
+	"stdbool.h"
+	"Util.h"
+	<time.h>
+
